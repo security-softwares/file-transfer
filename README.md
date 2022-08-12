@@ -22,7 +22,7 @@ python3 send_files.py
 - > for folders
 
 ```
-python3 send_folders.py
+python3 send_folder.py
 ```
 
 
