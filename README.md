@@ -1,18 +1,32 @@
 ![Ht](https://img.shields.io/badge/Made%20by-hackersTech-brightgreen)
 ---
-# shell-code-encrypter
-You can encrypt your bash shell source code 
-so no one can see and it will run as before no side effects of it😂
+![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
+# files-trasfer
+bulk file and folder transfering P2P file transfer no third party directly to the reciever
 ## how to use --
----
+![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
-- git clone https://github.com/HackersTech/shell-code-encrypter
+
+- git clone https://github.com/security-essentials/file-transfer
 ```
-cd shell-code-encrypter
-bash shell-encrypter
+cd file-transfer
+python3 recieve.py
+
 ```
---- 
+for sending files or folders
+```
+python3 send_files.py
+```
+
+- > for folders
+
+```
+python3 send_folders.py
+```
+
+
+![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)Z
 ## support us and follow on 
 youtube channel subscribe pls
 <a href="https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackers Tech-blue?style=for-the-badge&logo=Youtube"></a>
@@ -30,4 +44,5 @@ https://instagram.com/hackers__tech?utm_medium=copy_link)
 |give|star to|our repo |
 |follow|us on|social media|
 
----
+![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
+
