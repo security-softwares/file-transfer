@@ -24,9 +24,12 @@ python3 send_files.py
 ```
 python3 send_folder.py
 ```
+![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
 
-![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)Z
+![demo here ](https://raw.githubusercontent.com/security-essentials/file-transfer/main/6a2e00d1-72bf-489a-96bf-c92778a4ec61.webm)
+
+
 ## support us and follow on 
 youtube channel subscribe pls
 <a href="https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackers Tech-blue?style=for-the-badge&logo=Youtube"></a>
