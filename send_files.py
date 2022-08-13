@@ -15,8 +15,10 @@ parser.add_option("-i", dest="ip_address", help="connect to remote host (ex:loca
 parser.add_option("-p", dest="port",
                   help="port")
 option,args = parser.parse_args()
-
- if not ip or not port or not file_name:
+ip=option.ip_address
+port=option.port
+file_name=option.file_name
+if not ip or not port or not file_name:
      print(''' 
 Usage: send_files.py [options]
    Options:
@@ -25,7 +27,8 @@ Usage: send_files.py [options]
   -i IP_ADDRESS   connect to remote host (ex:localhost)
   -p PORT         port
   -E ENCRYPTION   this feature coming soon''')
-                                                
+    
+    
     exit()
 if os.path.isdir(file_name):
     print('err')
