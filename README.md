@@ -51,9 +51,9 @@ youtube channel subscribe pls
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-ForHelp-green?style=for-the-badge&logo=instagram)](
 https://instagram.com/hackers__tech?utm_medium=copy_link)
-[![TL](https://img.shields.io/badge/TELEGRAM-CHANNEL-brightgreen?style=for-the-badge&logo=telegram)](https://t.me/hacker_s_tech)
+[![TL](https://img.shields.io/badge/TELEGRAM-CHANNEL-brightgreen?style=for-the-badge&logo=telegram)](https://t.me/intranet_protocol)
 [![TL](https://img.shields.io/badge/Twitter-account-red?style=for-the-badge&logo=Twitter)](https://twitter.com/HackersTech1?s=09)
-[![TL](https://img.shields.io/badge/reddit-account-blueviolet?style=for-the-badge&logo=reddit)](https://twitter.com/HackersTech1?s=09)
+[![TL](https://img.shields.io/badge/reddit-account-blueviolet?style=for-the-badge&logo=reddit)](https://twitter.com/SECURITY-essentials?s=09)
 --- 
 |pls share|our|repo |
 |----|----|----|
