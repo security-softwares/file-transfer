@@ -16,7 +16,7 @@ parser.add_option("-p", dest="port",
                   help="port")
 option,args = parser.parse_args()
 ip=option.ip_address
-port=option.port
+port=int(option.port)
 file_name=option.file_name
 if not ip or not port or not file_name:
      print(''' 
@@ -29,7 +29,7 @@ Usage: send_files.py [options]
   -E ENCRYPTION   this feature coming soon''')
     
     
-    exit()
+     exit()
 if os.path.isdir(file_name):
     print('err')
 # initializing the buffer size
