@@ -35,6 +35,7 @@ python3 send_folder.py -i <localhost> -p <port> <folder path>
 ![demo here ](https://raw.githubusercontent.com/security-essentials/file-transfer/main/6a2e00d1-72bf-489a-96bf-c92778a4ec61.webm)
 
  FOR PUBLIC FILE TRANSFERING (GLOBALLY)
+
  ONLY RECIEVER HAVE TO RUN THESE TO RECIEVE FILE OR FOLDER PUBLICLY OR GLOBALLY
 > NGROK IS THERE USE THESE COMMANDS
 
