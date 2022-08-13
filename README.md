@@ -2,8 +2,12 @@
 ---
 ![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
-# files-trasfer
+# files-transfer
+
+P2P FILE TRANSFERING SERVICE SECURE AND SAFE WITH POINT TO POINT | SENDER TO RECIEVER 
+
 bulk file and folder transfering P2P file transfer no third party directly to the reciever
+---
 ## how to use --
 ![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
@@ -11,26 +15,34 @@ bulk file and folder transfering P2P file transfer no third party directly to th
 - git clone https://github.com/security-essentials/file-transfer
 ```
 cd file-transfer
-python3 recieve.py
+
+python3 recieve.py 
 
 ```
 for sending files or folders
 ```
-python3 send_files.py
+python3 send_files.py -i <localhost> -p <port> -f <file path>
 ```
 
 - > for folders
 
 ```
-python3 send_folder.py
+python3 send_folder.py -i <localhost> -p <port> <folder path>
 ```
 ![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
 
 ![demo here ](https://raw.githubusercontent.com/security-essentials/file-transfer/main/6a2e00d1-72bf-489a-96bf-c92778a4ec61.webm)
 
+ FOR PUBLIC FILE TRANSFERING (GLOBALLY)
+ ONLY RECIEVER HAVE TO RUN THESE TO RECIEVE FILE OR FOLDER PUBLICLY OR GLOBALLY
+> NGROK IS THERE USE THESE COMMANDS
 
-## support us and follow on 
+```
+./ngrok tcp < reciever port>
+```
+
+## support and follow on 
 youtube channel subscribe pls
 <a href="https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackers Tech-blue?style=for-the-badge&logo=Youtube"></a>
 
