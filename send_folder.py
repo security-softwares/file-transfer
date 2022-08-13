@@ -85,16 +85,16 @@ for k in fl:
 for kis in dl:
     if p=='nt':
         
-        os.system(f'python send_files.py {kis} {ip} {port}')
+        os.system(f'python send_files.py "{kis}" {ip} {port}')
 
     else:
 
-        os.system(f'python3 send_files.py {kis} {ip} {port} ')
+        os.system(f'python3 send_files.py "{kis}" {ip} {port} ')
 for kk in fdr:
     if p=='nt':
         
-        os.system(f'python send_folder.py -f {kk} -i {ip} -p {port}')
+        os.system(f'python send_folder.py -f "{kk}" -i {ip} -p {port}')
         print(i)
     else:
 
-        os.system(f'python3 send_folder.py  -f {kk} -i {ip} -p {port} ')
+        os.system(f'python3 send_folder.py  -f "{kk}" -i {ip} -p {port} ')
