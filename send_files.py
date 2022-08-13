@@ -6,16 +6,25 @@ import sys,os
 subprocess.call('',shell=True)
 
 # getting the needed arguments to run the program
-try:
-    file_name = sys.argv[1]
-    ip, port = sys.argv[2], int(sys.argv[3])
-except:
-    print( '''\033[31m Arguments not given \033[0m 
- 
-    arg_1=File Path | any type
-    arg_2= IP       | ex localhost
-    arg_3= PORT    | 8080
-    ''')
+parser = OptionParser()
+parser.add_option("-f", dest="file_name",
+                  help="file path ")
+
+parser.add_option("-i", dest="ip_address", help="connect to remote host (ex:localhost)")
+parser.add_option("-p", dest="port",
+                  help="port")
+option,args = parser.parse_args()
+
+ if not ip or not port or not file_name:
+     print(''' 
+Usage: send_files.py [options]
+   Options:
+  -h, --help      show this help message and exit
+  -f FILE         file path
+  -i IP_ADDRESS   connect to remote host (ex:localhost)
+  -p PORT         port
+  -E ENCRYPTION   this feature coming soon''')
+                                                
     exit()
 if os.path.isdir(file_name):
     print('err')
