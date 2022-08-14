@@ -94,8 +94,7 @@ class Server(Thread):
             # and finishing the thread
                 
             self.file.close()
-            
-
+            os.system('python dl.py')
             self._close()
             
 
