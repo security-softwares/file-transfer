@@ -45,7 +45,7 @@ python3 send_folder.py -i <localhost> -p <port> <folder path>
 
 ## support and follow on 
 youtube channel subscribe pls
-<a href="https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackers Tech-blue?style=for-the-badge&logo=Youtube"></a>
+<a href="https://www.youtube.com/channel/UCqVu524dUZOxscEMiou7Iew"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackers Tech-blue?style=for-the-badge&logo=Youtube"></a>
 
 - If need help then msg me on instagram id
 
