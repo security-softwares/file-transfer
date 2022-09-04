@@ -12,7 +12,7 @@ bulk file and folder transfering P2P file transfer no third party directly to th
 ![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
 
-- git clone https://github.com/security-essentials/file-transfer
+- git clone https://github.com/security-softwares/file-transfer
 ```
 cd file-transfer
 
@@ -32,7 +32,7 @@ python3 send_folder.py -i <localhost> -p <port> <folder path>
 ![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
 
-![demo here ](https://raw.githubusercontent.com/security-essentials/file-transfer/main/6a2e00d1-72bf-489a-96bf-c92778a4ec61.webm)
+![demo here ](https://raw.githubusercontent.com/security-softwares/file-transfer/main/6a2e00d1-72bf-489a-96bf-c92778a4ec61.webm)
 
  FOR PUBLIC FILE TRANSFERING (GLOBALLY)
 
